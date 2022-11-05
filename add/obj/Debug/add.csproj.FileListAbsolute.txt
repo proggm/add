@@ -1,0 +1,8 @@
+E:\проекты\add\add\bin\Debug\add.exe.config
+E:\проекты\add\add\bin\Debug\add.exe
+E:\проекты\add\add\bin\Debug\add.pdb
+E:\проекты\add\add\obj\Debug\add.csproj.AssemblyReference.cache
+E:\проекты\add\add\obj\Debug\add.csproj.SuggestedBindingRedirects.cache
+E:\проекты\add\add\obj\Debug\add.csproj.CoreCompileInputs.cache
+E:\проекты\add\add\obj\Debug\add.exe
+E:\проекты\add\add\obj\Debug\add.pdb
