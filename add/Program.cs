@@ -12,7 +12,7 @@ namespace add
         static void Main(string[] args)
         {
             int[] first = new int[10];
-            Console.WriteLine($"Минимальное число: {For(Generation(first))}");
+            Console.WriteLine($"Максимальное  число: {For(Generation(first))}");
             
             Console.ReadKey();
         }
@@ -32,16 +32,14 @@ namespace add
         static int For(int[] arr)
         {
             int first = arr[0];
-            int second = 0;
             for (int i = 0; i < arr.Length; i++)
             {
-                if (first > arr[i])
+                if (first < arr[i])
                 {
-                    first = arr[i];
-                    second = first;
+                    first = arr[i];                   
                 }
             }
-            return second;
+            return first;
         }
     }
 }
